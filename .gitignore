@@ -27,7 +27,7 @@ env/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+
 
 # Data files
 data/
