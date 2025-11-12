@@ -5,7 +5,7 @@ st.title("Solar Resource Dashboard")
 st.write("welcome to the solar resource analysis Dashboard")
 data=load_data("Benin")
 print(data.head())
-summary=get_summary_stats(data)
+summary=get_summary_stats(data) 
 print(summary)
 
 
